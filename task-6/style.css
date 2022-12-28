@@ -1,0 +1,26 @@
+.underline{
+            
+    border-bottom: 2px double ;
+    }
+.footer{
+    text-align: center;
+}
+.content{
+    padding: 80px;
+    
+    
+}
+.edu_table_content {
+text-align: center;
+}
+.first_section{
+    height: 150px;
+}
+.left{
+    float: left;
+    width: 90%;
+}
+.right{
+    float: right;
+    width: 10%;
+}
